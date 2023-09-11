@@ -19,7 +19,7 @@
 可以透過[Chrome遠端桌面官網](https://remotedesktop.google.com/access)確認是否有正常開啟/關閉
 
 ### 開啟狀態
-<img src="https://raw.githubusercontent.com/AU2A/chrome-remote-switch/main/image/3.png" alt="drawing" width="500"/>
+<img src="https://raw.githubusercontent.com/AU2A/chrome-remote-switch/main/image/4.png" alt="drawing" width="500"/>
 
 ### 關閉狀態
-<img src="https://raw.githubusercontent.com/AU2A/chrome-remote-switch/main/image/4.png" alt="drawing" width="500"/>
+<img src="https://raw.githubusercontent.com/AU2A/chrome-remote-switch/main/image/3.png" alt="drawing" width="500"/>
