@@ -3,12 +3,12 @@
 
 [軟體下載/Download](https://raw.githubusercontent.com/AU2A/chrome-remote-switch/main/dist/CR-Switch.exe)
 
-## 說明/direction
+## 說明/Direction
 這是一個工具可以快速的開啟與關閉Chrome Remote的後台
 
 This is a tool that you can turn on/off chrome remote software.
 
-## 通知/Motification
+## 通知/Notification
 正常啟動時，右下通知列會跳通知
 
 When started normally, notifications will appear in the bottom right notification area.
