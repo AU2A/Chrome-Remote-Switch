@@ -1,5 +1,6 @@
 # Chrome-Remote-Switch
 [當前版本](https://github.com/AU2A/Chrome-Remote-Switch/releases/tag/v1.0)
+
 [軟體下載](https://raw.githubusercontent.com/AU2A/chrome-remote-switch/main/dist/CR-Switch.exe)
 
 ## 說明
