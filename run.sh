@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --uac-admin --icon switch.ico --name CR-Switch .\main.py 
