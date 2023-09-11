@@ -13,7 +13,7 @@
 <img src="https://raw.githubusercontent.com/AU2A/chrome-remote-switch/main/image/2.png" alt="drawing" width="300"/>
 
 ## 檢查
-可以透過[Chrome遠端桌面官網](https://remotedesktop.google.com/)確認是否有正常開啟/關閉
+可以透過[Chrome遠端桌面官網](https://remotedesktop.google.com/access)確認是否有正常開啟/關閉
 
 ### 開啟狀態
 <img src="https://raw.githubusercontent.com/AU2A/chrome-remote-switch/main/image/3.png" alt="drawing" width="500"/>
